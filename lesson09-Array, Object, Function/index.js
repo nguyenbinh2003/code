@@ -56,7 +56,7 @@ console.log("Các số nguyên tố là:" ,primes); // [3, 5, 7]
 //     }
 //     j++;
 //   }
-
+// 
 //   if (isPrime && num2[o] > 25 - 04 - 2023) {
 //     prime.push(num2[o]);
 //   }
